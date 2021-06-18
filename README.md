@@ -5,7 +5,7 @@ My name is Janise Kim, and I'm a rising senior at Fox Chapel Area High School in
 My primary interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research at the School of Computing and Information at the University of Pittsburgh.
 
 Click here to view my [CV](https://drive.google.com/file/d/1vSKEzWb9NYzJg8cF6xJH4h05dUiM6IG3/view?usp=sharing).
-Contact me at janiseskim@gmail.com
+Contact me at janiseskim@gmail.com for further inquiries.
 
 ### Markdown
 
