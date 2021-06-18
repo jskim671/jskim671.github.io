@@ -1,14 +1,15 @@
 ## Hello World!
 
-My name is Janise Kim, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  
+![Me and my dog :)](https://drive.google.com/file/d/1S2kSZGyUbaoV45f-nRrx24JJTP52hg7h/view?usp=sharing)
+My name is Janise, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  
 
-My primary interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research at the School of Computing and Information at the University of Pittsburgh.
+My primary topics of interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research at the School of Computing and Information at the University of Pittsburgh.
 
 [Click here to view my CV](https://drive.google.com/file/d/1vSKEzWb9NYzJg8cF6xJH4h05dUiM6IG3/view?usp=sharing).  Feel free to contact me at janiseskim@gmail.com for further inquiries.
 
-### Markdown
+## Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Learn more about my research, projects, interesting reads, and more below!
 
 ```markdown
 Syntax highlighted code block
