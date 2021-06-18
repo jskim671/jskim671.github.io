@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Media & Publications
+## Media & Publications
 
 [Fox Chapel Area Trio Wins Governor's STEM Competition for Occupancy Tracking App](https://triblive.com/local/valley-news-dispatch/fox-chapel-area-trio-wins-governors-stem-competition-for-occupancy-tracking-app/)
 
