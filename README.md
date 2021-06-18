@@ -1,8 +1,11 @@
 ## Hello World!
 
-My name is Janise Kim, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  My primary interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research under the School of Computing and Information at the University of Pittsburgh.
+My name is Janise Kim, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My primary interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research at the School of Computing and Information at the University of Pittsburgh.
+
+Click here to view my [CV](https://drive.google.com/file/d/1vSKEzWb9NYzJg8cF6xJH4h05dUiM6IG3/view?usp=sharing).
+Contact me at janiseskim@gmail.com
 
 ### Markdown
 
