@@ -8,7 +8,7 @@ My primary topics of interests include human-computer interaction and cognitive 
 
 ## Blog
 
-Learn more about my research, projects, interesting reads, and more below!
+Learn more about my research, projects, and interesting reads below!
 
 ```markdown
 Syntax highlighted code block
@@ -28,8 +28,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Media & Publications
 
-### Publications
+[Fox Chapel Area Trio Wins Governor's STEM Competition for Occupancy Tracking App](https://triblive.com/local/valley-news-dispatch/fox-chapel-area-trio-wins-governors-stem-competition-for-occupancy-tracking-app/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jskim671/jskim671.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Occupancy Tracking App Wins Governor’s STEM Competition](https://www.govtech.com/education/k-12/occupancy-tracking-app-wins-governors-stem-competition)
