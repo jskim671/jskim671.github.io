@@ -1,6 +1,6 @@
 ## Hello World!
 
-![Me and my dog :)](https://drive.google.com/file/d/1S2kSZGyUbaoV45f-nRrx24JJTP52hg7h/view?usp=sharing)
+![](https://drive.google.com/file/d/1S2kSZGyUbaoV45f-nRrx24JJTP52hg7h/view?usp=sharing)
 
 My name is Janise, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  
 
