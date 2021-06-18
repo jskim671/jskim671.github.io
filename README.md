@@ -1,7 +1,5 @@
 ## Hello World!
 
-![ ](http://girlsofsteelrobotics.com/wp-content/uploads/Janise-Kim-FRC-Headshot-768x768.jpg)
-
 My name is Janise, and I'm a rising senior at Fox Chapel Area High School in Pittsburgh, PA.  
 
 My primary topics of interests include human-computer interaction and cognitive science, and I currently assist Dr. Malihe Alikhani's research at the School of Computing and Information at the University of Pittsburgh.
